@@ -1,4 +1,5 @@
 <h2>SMCE_06's Github👋</h2>
+-쫌쫌따리..하고있습니다
 
 ## #PROJECTS  
 <b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
