@@ -1,6 +1,7 @@
-##SMCE_06's Github👋  
+## SMCE_06's Github👋  
 -Computer Science<br>
 -App, Web, Game
+  
 
 ## #PROJECTS  
 <b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
