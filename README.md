@@ -1,10 +1,11 @@
 <h2>SMCE_06's Github👋</h2>
--쫌쫌따리..하고있습니다
+-Computer Science
+-App, Web, Game
 
 ## #PROJECTS  
 <b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
   -Uni Day  
-  -대학입시도움  
+  -대학 입시 도움 웹사이트  
   -웹시스템설계  
     
 <b>-[Tums_Camping](https://github.com/smce06/Tums_Camping)</b>  
