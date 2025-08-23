@@ -1,4 +1,4 @@
-## SMCE_06's Github 👋
+<h2>SMCE_06's Github👋</h2>
 
 ## #PROJECTS  
 <b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
