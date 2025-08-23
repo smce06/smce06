@@ -18,5 +18,4 @@
 <b>-[online_lecture_smwu](https://github.com/chaeeeeune/online_lecture_smwu)</b>  
   -Flutter  
   -비교과 강의  
-  
-
+  -다른 계정으로 진행  
