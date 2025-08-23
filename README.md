@@ -1,4 +1,4 @@
-## Hi there 👋
+## SMCE_06's Github 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)
 
