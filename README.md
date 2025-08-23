@@ -1,8 +1,8 @@
 ## SMCE_06's Github👋  
 -Computer Science<br>
--App📱, Web💻, Game🎮  
-  
-
+-App📱, Web💻, Game🎮 
+<br>
+<br>
 ## #PROJECTS  
 <b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
   -Uni Day  
