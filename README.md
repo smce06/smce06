@@ -1,6 +1,6 @@
 ## SMCE_06's Github👋  
 -Computer Science<br>
--App, Web, Game
+-App📱, Web💻, Game🎮  
   
 
 ## #PROJECTS  
