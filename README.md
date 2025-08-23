@@ -1,7 +1,5 @@
 ## SMCE_06's Github 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)
-
 ## #PROJECTS  
 <b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
   -Uni Day  
@@ -18,5 +16,7 @@
   -비교과 강의  
   -다른 계정으로 진행  
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)  
 
 [![Tistory](https://img.shields.io/badge/MyTistory-FF4500?style=flat-square&logo=tistory&logoColor=white)](https://dinito.tistory.com/)
