@@ -1,5 +1,5 @@
-<h2>SMCE_06's Github👋</h2>
--Computer Science  
+##SMCE_06's Github👋  
+-Computer Science<br>
 -App, Web, Game
 
 ## #PROJECTS  
