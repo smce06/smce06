@@ -4,8 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)
 
-#PROJECTS  
--[PROJECT](https://github.com/smce06/PROJECT)  
+## #PROJECTS  
+<b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
   -Uni Day  
   -대학입시도움  
   -웹시스템설계  
