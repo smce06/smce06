@@ -13,11 +13,6 @@
   -숲 속 바베큐 파티!  
   -2D 슈팅 미니게임  
   -Tums 동아리  
-    
-<b>-[online_lecture_smwu](https://github.com/chaeeeeune/online_lecture_smwu)</b>  
-  -Flutter  
-  -비교과 강의  
-  -다른 계정으로 진행  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)  
