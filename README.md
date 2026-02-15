@@ -10,10 +10,10 @@
   -2D 슈팅 미니게임  
   -Tums 동아리  
 <b>-[Sin:cere](https://github.com/Seoyoung0325/Sincere_project)</b><br>
-  -unity 2d
-  -공포 추리
-  -개발중
-  -Tums 동아리
+  -unity 2d<br>
+  -공포 추리<br>
+  -개발중<br>
+  -Tums 동아리<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)  
