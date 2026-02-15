@@ -9,7 +9,7 @@
   -숲 속 바베큐 파티!  
   -2D 슈팅 미니게임  
   -Tums 동아리  
-<b>-[Sin:cere](https://github.com/Seoyoung0325/Sincere_project)</b>
+<b>-[Sin:cere](https://github.com/Seoyoung0325/Sincere_project)</b><br>
   -unity 2d
   -공포 추리
   -개발중
