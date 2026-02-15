@@ -4,15 +4,16 @@
 <br>
 <br>
 ## #PROJECTS  
-<b>-[PROJECT](https://github.com/smce06/PROJECT)</b>  
-  -Uni Day  
-  -대학 입시 도움 웹사이트  
-  -웹시스템설계  
     
 <b>-[Tums_Camping](https://github.com/smce06/Tums_Camping)</b>  
   -숲 속 바베큐 파티!  
   -2D 슈팅 미니게임  
   -Tums 동아리  
+<b>-[Sin:cere](https://github.com/Seoyoung0325/Sincere_project)</b>
+  -unity 2d
+  -공포 추리
+  -개발중
+  -Tums 동아리
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smce06&show_icons=true&theme=shadow_blue)  
