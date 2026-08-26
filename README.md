@@ -5,14 +5,14 @@
 <br>
 ## #PROJECTS  
     
-<b>-[Tums_Camping](https://github.com/smce06/Tums_Camping)</b>  
-  -숲 속 바베큐 파티!  
-  -2D 슈팅 미니게임  
-  -Tums 동아리  
-<b>-[Sin:cere](https://github.com/Seoyoung0325/Sincere_project)</b><br>
-  -unity 2d<br>
-  -공포 추리<br>
-  -개발중<br>
-  -Tums 동아리<br>
+<b>-[F학점은 피하고 싶어!](https://github.com/Limlim0208/F-Grade-Project)</b>  
+  -Unity 2D 프로젝트  
+  -다양한 미니게임을 통과하며 A학점을 받는 게임
+  -현재 개발중
+  -숙명여대 Tums 동아리  
+<b>-[Tebly](https://github.com/tebly-cbhj/tebly-client)</b><br>
+  -약속 일정을 AI를 이용하여 자동으로 조율해주는 앱<br>
+  -React, ReactNative<br>
+  -TAVE 17기<br>
 
 
