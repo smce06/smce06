@@ -15,6 +15,6 @@
 <b>-[Tebly](https://github.com/tebly-cbhj/tebly-client)</b><br>
   -약속 일정을 AI를 이용하여 자동으로 조율해주는 앱<br>
   -React, ReactNative<br>
-  -[tebly.org](tebly.org)<br>
+  -[tebly.org](https://blog.naver.com/t-ave/224385829951)<br>
   -IT 연합동아리 TAVE 17기 FE<br>
 
